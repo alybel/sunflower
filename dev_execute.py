@@ -1,5 +1,9 @@
 from sunflower import data_utils
-import datetime
+
+
+data_utils.manage_data()
+
+
 
 
 data_utils.update_ticker('AAPL')
